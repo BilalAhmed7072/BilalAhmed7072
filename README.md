@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Bilal Ahmed</h1>
 
 <h3 align="center">
-AI Engineer @ Spark Solutionz | IBM Certified in Generative AI | Building End-to-End Intelligent AI & NLP Systems
+AI Engineer @ Excels Tech Solution LLC  | IBM Certified in Generative AI | Building End-to-End Intelligent AI & NLP Systems
 </h3>
 
 <p align="center">
